@@ -43,20 +43,20 @@ Parfait pour les installations minimales, les serveurs avec carte WiFi, ou simpl
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/MrTHP/wifi-manager-tui.git
-cd wifi-manager-tui
+git clone https://github.com/MrTHP/wifimanager.git
+cd wifimanager
 ```
 
 ### 2. Rendre le script exécutable
 
 ```bash
-chmod +x wifi-manager.sh
+chmod +x wifimanager.sh
 ```
 
 ### 3. Lancer le script
 
 ```bash
-sudo ./wifi-manager.sh
+sudo ./wifimanager.sh
 ```
 
 ### 4. Navigation
