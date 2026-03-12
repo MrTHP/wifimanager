@@ -98,17 +98,6 @@ Utilisez les flèches du clavier pour naviguer dans le menu et `Entrée` pour va
 
 ---
 
-## 🛠️ Pour les contributeurs
-
-Ce script fait partie de ma quête du **setup ultime** (perf + esthétique). Si vous trouvez des bugs ou avez des idées d'optimisation (Nix Flakes, Dockerisation du tool, etc.), n'hésitez pas :
-
-1.  Forker le projet.
-2.  Créer une branche (`git checkout -b feature/AmazingFeature`).
-3.  Committer vos changements (`git commit -m 'Add some AmazingFeature'`).
-4.  Pusher (`git push origin feature/AmazingFeature`).
-5.  Ouvrir une Pull Request.
-
----
 
 ## 📄 Licence
 
